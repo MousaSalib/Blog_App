@@ -8,7 +8,7 @@ const useStyles = makeStyles({
         maxWidth: "70%",
         background: "#555",
         color: "#fff",
-        borderRadius: "20px"
+        borderRadius: "20px",
     }
 })
 export default function FeaturedPost(props) {
